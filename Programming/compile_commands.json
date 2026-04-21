@@ -1,0 +1,5 @@
+[{
+		"file":	"E:\\DUONG\\Study\\C_plus_programming\\Programming\\Lesson1\\main.cpp",
+		"directory":	"E:\\DUONG\\Study\\C_plus_programming\\Programming\\Lesson1",
+		"command":	"clang++ -c E:\\DUONG\\Study\\C_plus_programming\\Programming\\Lesson1\\main.cpp -o E:\\DUONG\\Study\\C_plus_programming\\Programming\\Lesson1\\main.cpp.o  -I. -I.  -g -Wall"
+	}]

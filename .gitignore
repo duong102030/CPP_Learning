@@ -1,0 +1,23 @@
+# Build folders 
+Debug/
+Release/
+build/
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Temp files
+*.log
+*.tmp
+
+# CodeLite
+.codelite/
+
+# OS
+Thumbs.db
+.DS_Store

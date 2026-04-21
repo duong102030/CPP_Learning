@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Project Name="Lesson1" Version="11000">
+  <Description/>
+  <VirtualDirectory Name="src">
+    <File Name="main.cpp"/>
+  </VirtualDirectory>
+  <VirtualDirectory Name="include"/>
+  <Dependencies/>
+</CodeLite_Project>
