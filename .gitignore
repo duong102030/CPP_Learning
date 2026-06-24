@@ -1,23 +1,62 @@
-# Build folders 
-Debug/
-Release/
+# =========================
+# Build folders
+# =========================
 build/
+cmake-build-*/
+out/
 
-# Executables
+# =========================
+# CMake generated files
+# =========================
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+
+# =========================
+# Executable files
+# =========================
 *.exe
 *.out
+*.app
+main
 
+# =========================
 # Object files
+# =========================
 *.o
 *.obj
+*.so
+*.a
+*.lib
+*.dll
 
-# Temp files
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Linux temporary files
+# =========================
+*~
+*.swp
+*.swo
+
+# =========================
+# Logs
+# =========================
 *.log
-*.tmp
 
-# CodeLite
-.codelite/
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
 
-# OS
-Thumbs.db
+# =========================
+# MacOS
+# =========================
 .DS_Store
